@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "gigzoom",
+    "dist": "gigzoom"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
